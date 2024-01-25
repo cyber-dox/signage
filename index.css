@@ -1,3 +1,21 @@
 #hd1{
 	color: red;
+	margin-left: 43%;
+}
+
+#div1{
+	margin-left:38% ;
+	height: 300px;
+	width: 300px;
+	background-color: red;
+	border:1px solid black;
+	border-radius: 8px;
+}
+
+#cir1{
+	margin-left:46% ;
+	background-color: blue;
+	height: 100px;
+	width: 100px;
+	border-radius: 50px;
 }
