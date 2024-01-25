@@ -9,3 +9,7 @@ marquee.id="mq1";
 marquee2 = document.createElement("marquee");
 marquee2.innerHTML = "Marquee 2";
 document.body.appendChild(marquee2);
+
+division = document.createElement("div");
+division.id = "div1";
+document.body.appendChild(division);
