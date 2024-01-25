@@ -19,3 +19,7 @@ document.body.appendChild(division);
 circle = document.createElement("div");
 circle.id = "cir1";
 document.body.appendChild(circle);
+
+circle2 = document.createElement("div");
+circle2.id = "cir2";
+document.body.appendChild(circle2);
